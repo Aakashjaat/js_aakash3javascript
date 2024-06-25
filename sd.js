@@ -8,7 +8,7 @@ let isLoggedIn = "1"
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn );
 
-// OPERATIONS
+//******************** OPERATIONS *********************//
 
 
 let value = 3
